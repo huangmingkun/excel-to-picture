@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ecadc061-32a7-49a1-83c4-04b3baab0cd9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="nodejs-demo" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b9WuFnu7hy4PeHRWNHlaUeSV4e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561442018106" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../java/spring-demo" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\self-project\money-project\excel-export-picture\nodejs-demo\public\excel" />
+      <recent name="D:\Users\hmk\Desktop\nodejs-demo\public\excel" />
+      <recent name="D:\Users\hmk\Desktop\nodejs-demo\public\images" />
+      <recent name="D:\Users\hmk\nodejs-demo\views" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="WIDTH" value="0" />
+      <option name="HEIGHT" value="0" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>D:\Users\hmk\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecadc061-32a7-49a1-83c4-04b3baab0cd9" name="Default Changelist" comment="" />
+      <created>1560332473775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560332473775</updated>
+      <workItem from="1560332475198" duration="3288000" />
+      <workItem from="1560755989811" duration="22382000" />
+      <workItem from="1561338907451" duration="2623000" />
+      <workItem from="1561599298737" duration="1148000" />
+      <workItem from="1562135314392" duration="1883000" />
+      <workItem from="1562655849910" duration="23000" />
+      <workItem from="1567993707481" duration="125000" />
+      <workItem from="1571106723282" duration="1514000" />
+      <workItem from="1571109171017" duration="5065000" />
+      <workItem from="1574044065108" duration="1481000" />
+      <workItem from="1574673955258" duration="11000" />
+      <workItem from="1583830972333" duration="3248000" />
+      <workItem from="1583891435099" duration="1013000" />
+      <workItem from="1583992812537" duration="6917000" />
+      <workItem from="1588045014780" duration="263000" />
+      <workItem from="1589357059778" duration="1065000" />
+      <workItem from="1589943531948" duration="792000" />
+      <workItem from="1593652130560" duration="20000" />
+      <workItem from="1593652162844" duration="422000" />
+      <workItem from="1593652612115" duration="24000" />
+      <workItem from="1594289518154" duration="54507000" />
+      <workItem from="1597202239613" duration="2482000" />
+      <workItem from="1597651048549" duration="713000" />
+      <workItem from="1615533770157" duration="357000" />
+      <workItem from="1615535381500" duration="333000" />
+      <workItem from="1615535730546" duration="14825000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="739" y="261" key="FileChooserDialogImpl" timestamp="1615799243401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1615799243401" />
+    <state width="1877" height="149" key="GridCell.Tab.0.bottom" timestamp="1615859188377">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="149" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615859188377" />
+    <state width="1877" height="149" key="GridCell.Tab.0.center" timestamp="1615859188377">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="149" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615859188377" />
+    <state width="1877" height="149" key="GridCell.Tab.0.left" timestamp="1615859188377">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="149" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615859188377" />
+    <state width="1877" height="149" key="GridCell.Tab.0.right" timestamp="1615859188377">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="149" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615859188377" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1615533769690">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615533769690" />
+    <state x="334" y="221" key="new project wizard" timestamp="1615534125331">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="221" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1615534125331" />
+  </component>
+</project>
